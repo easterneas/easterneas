@@ -1,4 +1,4 @@
-# Konnichiwa! Welcome! 👋
+# Welcome! 👋
 
 Welcome to my GitHub profile, where you can find all of my projects here.
 
@@ -10,7 +10,6 @@ Welcome to my GitHub profile, where you can find all of my projects here.
 - ⚡ Fun fact: I love instrumental songs, especially epic ones! If you know one, please [let me know](https://eas.web.id/contact)~
 
 Nice to meet you!
-*Yoroshiku onegaishimasu!*
 
 <!--
 **easterneas/easterneas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
