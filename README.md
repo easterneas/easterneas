@@ -6,7 +6,6 @@ Welcome to my GitHub profile, where you can find all of my projects here.
 
 - 🌱 Graduated Full Stack Javascript bootcamp from Hacktiv8
 - 🔭 I'm working as a Full Stack Javascript instructor at Hacktiv8, while also doing side projects
-- 👯 I’m looking to collaborate on an upcoming open source project, The Seed project
 
 ## Fun fact
 
