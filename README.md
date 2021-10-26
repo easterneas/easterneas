@@ -4,11 +4,18 @@ Welcome to my GitHub profile, where you can find all of my projects here.
 
 ## Currently...
 
-- 🌱 Graduated Full Stack Javascript bootcamp from Hacktiv8
-- 🔭 I'm working as a Full Stack Javascript instructor at Hacktiv8, while also doing side projects
+- 🔭 I'm working as a Full Stack Javascript instructor at Hacktiv8
+- ⚛️ I'm brainstorming and working on the next (side) project
+- 📔 I occasionally [writing blogs](https://eas.web.id/blog)
 
 ## Fun fact
 
-I love instrumental songs, especially epic ones! If you know one, please [let me know](https://eas.web.id/contact)!
+- 💻 I love tinkering with PCs, and all things tech
+- 🎶 I love instrumental songs, especially orchestral ones!
 
-Nice to meet you!
+## Contact
+
+You can find me on:
+
+- GitHub -> you're right here!
+- [Website](https://eas.web.id)
