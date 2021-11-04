@@ -4,7 +4,7 @@ Welcome to my GitHub profile, where you can find all of my projects here.
 
 ## Currently...
 
-- 🔭 I'm working as a Full Stack Javascript instructor at Hacktiv8
+- 🔭 I'm working as an instructor at Hacktiv8
 - ⚛️ I'm brainstorming and working on the next (side) project
 - 📔 I occasionally [writing blogs](https://eas.web.id/blog)
 
