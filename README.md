@@ -4,8 +4,8 @@ Welcome to my GitHub profile, where you can find all of my projects here.
 
 ## I'm currently...
 
-- 🔭 working as an instructor at Hacktiv8
-- ⚛️ working on the side project, post(s) incoming!
+- 🔭 working as Java back-end developer
+- ⚛️ working on the big project, post(s) incoming!
 - 📔 occasionally [writing blogs](https://eas.web.id/blog)
 
 ## Fun fact
