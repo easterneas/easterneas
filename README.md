@@ -4,13 +4,14 @@ Welcome to my GitHub profile, where you can find all of my projects here.
 
 ## I'm currently...
 
-- 🔭 working as full-stack developer, with focus on front-end
+- 🔭 working as full-stack developer, with focus on front-end (and occasionally back-end).
 - ⚛️ working on the big project, post(s) incoming!
-- 📔 occasionally [writing blogs](https://eas.web.id/blog)
+- 📔 [writing blogs](https://eas.web.id/blog). Go check them out!
+- 💻 (slowly) homelabbing, also hosting some small apps to support productivity.
 
 ## Fun fact
 
-- 💻 I love tinkering with PCs, and all things tech
+- 💻 I love tinkering! Computers, gadgets, and all things tech... IoT and 3D printing, anyone?
 - 🎶 I love instrumental songs, especially orchestral and epic ones!
 
 ## Contact
